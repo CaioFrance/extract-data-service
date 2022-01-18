@@ -1,5 +1,4 @@
 # Extração de dados de API REST
-<hr/>
 
 ## Sobre o projeto
 
@@ -9,6 +8,7 @@ em um banco de dados PostgreSQL.</p>
 ## Requisitos
 
 <h4>Requisitos para ambiente local</h4>
+
 - <a href="https://www.ruby-lang.org/pt/">Ruby 3.0.0</a>
 - <a href="https://www.postgresql.org/">PostgreSQL</a>
 - Utilizar um orquestrador de container (Ex: Docker-compose)
